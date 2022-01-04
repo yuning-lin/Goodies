@@ -46,4 +46,11 @@ def iso_8601_format(dt):
   
 [API 版](https://labelstud.io/guide/)快速標籤多種資料異常與否
 
-
+## Color Map 選色工具
+* [Adobe Color](https://color.adobe.com/zh/create/color-wheel)
+  * 左上＞色輪：提供補色、三元群等色號
+  * 上方＞探索、趨勢：有很多好看的顏色套組
+* [coolors](https://coolors.co/)
+  * Start the generator! > 右上三條線 ＞ Explore：有很多好看的顏色套組
+  * 點選色號上複製鍵，即可複製色碼
+  * 點選色號上 view shadow 可以選擇漸層色號
