@@ -1,7 +1,6 @@
 ## Goodies
-Record useful tools
-紀錄有用的小工具的 repository  
-對學習有幫助或可立即使用看效果、不用親自寫程式省卻許多麻煩的工具  
+Record useful tools  
+紀錄寫程式以外，對學習有幫助或可立即使用看效果的軟體或工具  
 
 * [Way to Access Papers](https://sci-hub.se/)
 * [Free Labeling Tool](https://trainset.geocene.com/)
