@@ -11,9 +11,9 @@ Record useful tools or websites
 ### non-programming
 * [YouTube：天文物理數學歷史等知識型老師李永樂](https://www.youtube.com/c/%E6%9D%8E%E6%B0%B8%E4%B9%90%E8%80%81%E5%B8%88)
 * [Tool：Way to Access Papers](https://sci-hub.se/)
-* [Tool：Free Labeling](https://github.com/yuning-lin/Goodies/edit/main/README.md#free-labeling-tool)
-* [Tool：選色工具－Adobe Color](https://github.com/yuning-lin/Goodies/edit/main/README.md#color-map-%E9%81%B8%E8%89%B2%E5%B7%A5%E5%85%B7)
-* [Tool：選色工具－Coolors](https://github.com/yuning-lin/Goodies/edit/main/README.md#color-map-%E9%81%B8%E8%89%B2%E5%B7%A5%E5%85%B7)
+* [Tool：Free Labeling](https://github.com/yuning-lin/Goodies#free-labeling-tool%E6%99%82%E9%96%93%E5%BA%8F%E5%88%97%E8%B3%87%E6%96%99)
+* [Tool：選色工具－Adobe Color](https://github.com/yuning-lin/Goodies#color-map-%E9%81%B8%E8%89%B2%E5%B7%A5%E5%85%B7)
+* [Tool：選色工具－Coolors](https://github.com/yuning-lin/Goodies#color-map-%E9%81%B8%E8%89%B2%E5%B7%A5%E5%85%B7)
 * [Tool：介面設計工具 Figma](https://www.figma.com/)
 
 ## 實作
