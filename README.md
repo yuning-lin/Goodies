@@ -7,6 +7,8 @@ Record useful tools or websites
 ### programming
 * [W3Schools：各種知名程式入門](https://www.w3schools.com/)
 * [RefactoringGuru：各種知名程式進階設計模式](https://refactoringguru.cn/design-patterns/python)
+* [CodeBeautify：html、css 等視覺化線上轉換](https://codebeautify.org/)
+* [regexr：正則表達式線上轉換](https://regexr.com/)
 
 ### non-programming
 * [YouTube：天文物理數學歷史等知識型老師李永樂](https://www.youtube.com/c/%E6%9D%8E%E6%B0%B8%E4%B9%90%E8%80%81%E5%B8%88)
