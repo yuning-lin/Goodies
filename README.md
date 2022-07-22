@@ -1,13 +1,23 @@
 ## Goodies
-Record useful tools  
-紀錄寫程式以外，對學習有幫助或可立即使用看效果的軟體或工具  
+Record useful tools or websites  
+紀錄不錯的學習程式平台  
+以及寫程式以外，對學習有幫助的影音內容，或可立即使用看效果的軟體或工具  
 
-* [Way to Access Papers](https://sci-hub.se/)
-* [Free Labeling Tool](https://trainset.geocene.com/)
-* [介面設計工具 Figma](https://www.figma.com/)
+## 綱要
+### programming
+* [W3Schools：各種知名程式入門](https://www.w3schools.com/)
+* [RefactoringGuru：各種知名程式進階設計模式](https://refactoringguru.cn/design-patterns/python)
 
-## Free Labeling Tool
-### 時間序列資料
+### non-programming
+* [YouTube：天文物理數學歷史等知識型老師李永樂](https://www.youtube.com/c/%E6%9D%8E%E6%B0%B8%E4%B9%90%E8%80%81%E5%B8%88)
+* [Tool：Way to Access Papers](https://sci-hub.se/)
+* [Tool：Free Labeling](https://github.com/yuning-lin/Goodies/edit/main/README.md#free-labeling-tool)
+* [Tool：選色工具－Adobe Color](https://github.com/yuning-lin/Goodies/edit/main/README.md#color-map-%E9%81%B8%E8%89%B2%E5%B7%A5%E5%85%B7)
+* [Tool：選色工具－Coolors](https://github.com/yuning-lin/Goodies/edit/main/README.md#color-map-%E9%81%B8%E8%89%B2%E5%B7%A5%E5%85%B7)
+* [Tool：介面設計工具 Figma](https://www.figma.com/)
+
+## 實作
+### Free Labeling Tool－時間序列資料
 [WEB 版](https://trainset.geocene.com/)快速標籤時序資料異常與否  
 注意事項：
 * 上傳檔案為：csv
@@ -46,11 +56,11 @@ def iso_8601_format(dt):
   
 [API 版](https://labelstud.io/guide/)快速標籤多種資料異常與否
 
-## Color Map 選色工具
+### Color Map 選色工具
 * [Adobe Color](https://color.adobe.com/zh/create/color-wheel)
   * 左上＞色輪：提供補色、三元群等色號
   * 上方＞探索、趨勢：有很多好看的顏色套組
-* [coolors](https://coolors.co/)
+* [Coolors](https://coolors.co/)
   * Start the generator! > 右上三條線 ＞ Explore：有很多好看的顏色套組
   * 點選色號上複製鍵，即可複製色碼
   * 點選色號上 view shadow 可以選擇漸層色號
