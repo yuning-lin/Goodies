@@ -17,6 +17,8 @@ Record useful tools or websites
 * [Tool：選色工具－Adobe Color](https://github.com/yuning-lin/Goodies#color-map-%E9%81%B8%E8%89%B2%E5%B7%A5%E5%85%B7)
 * [Tool：選色工具－Coolors](https://github.com/yuning-lin/Goodies#color-map-%E9%81%B8%E8%89%B2%E5%B7%A5%E5%85%B7)
 * [Tool：介面設計工具 Figma](https://www.figma.com/)
+* [Tool：線上白板 Miro](https://miro.com/)
+* [Tool：截圖工具 Snipaste](https://www.snipaste.com/download.html#)
 
 ## 實作
 ### Free Labeling Tool－時間序列資料
