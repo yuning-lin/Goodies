@@ -20,6 +20,7 @@ Record useful tools or websites
 * [Tool：介面設計工具 Figma](https://www.figma.com/)
 * [Tool：線上白板 Miro](https://miro.com/)
 * [Tool：截圖工具 Snipaste](https://www.snipaste.com/download.html#)
+* [Blog：Data 📊 關於資料科學 … 我想說的是(上)](https://medium.com/%E7%A8%8B%E5%BC%8F%E7%8C%BF%E5%90%83%E9%A6%99%E8%95%89/data-%E9%97%9C%E6%96%BC%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8-%E6%88%91%E6%83%B3%E8%AA%AA%E7%9A%84%E6%98%AF-%E4%B8%8A-200d5ddb1552)
 
 ## 實作
 ### Free Labeling Tool－時間序列資料
