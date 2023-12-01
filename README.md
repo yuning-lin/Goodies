@@ -10,6 +10,7 @@ Record useful tools or websites
 * [RefactoringGuru：各種知名程式進階設計模式](https://refactoringguru.cn/design-patterns/python)
 * [CodeBeautify：html、css 等視覺化線上轉換](https://codebeautify.org/)
 * [regexr：正則表達式線上轉換](https://regexr.com/)
+* [Google Cloud Skills Boost：Google 雲端程式、非程式技巧](https://www.cloudskillsboost.google/paths)
 
 ### non-programming
 * [YouTube：天文物理數學歷史等知識型老師李永樂](https://www.youtube.com/c/%E6%9D%8E%E6%B0%B8%E4%B9%90%E8%80%81%E5%B8%88)
