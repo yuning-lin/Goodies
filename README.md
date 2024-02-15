@@ -27,6 +27,7 @@ Record useful tools or websites
 * [Fast & Free & GPTs Bots Store](https://flowgpt.com/)
 * [Chatgpt 指令大全－中文介面](https://www.explainthis.io/zh-hant/chatgpt)
 * [Chatgpt 指令大全－英文介面](https://contentatscale.ai/ai-prompt-library/)
+* [ChatGPT Prompt : 各職業詠唱大全](https://domyweb.org/chatgpt/#act-as-a-keyword-researcher)
 
 ## 實作
 ### Free Labeling Tool－時間序列資料
