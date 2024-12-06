@@ -5,12 +5,19 @@ Record useful tools or websites
 
 ## 綱要
 ### programming
+#### 程式學習資源
 * [W3Schools：各種知名程式入門](https://www.w3schools.com/)
 * [菜鳥教程：各種知名程式入門](https://www.runoob.com/)
 * [RefactoringGuru：各種知名程式進階設計模式](https://refactoringguru.cn/design-patterns/python)
 * [CodeBeautify：html、css 等視覺化線上轉換](https://codebeautify.org/)
 * [regexr：正則表達式線上轉換](https://regexr.com/)
 * [Google Cloud Skills Boost：Google 雲端程式、非程式技巧](https://www.cloudskillsboost.google/paths)
+#### PYTHON 開源專案
+* [MusePose: a Pose-Driven Image-to-Video Framework for Virtual Human Generation.](https://github.com/TMElyralab/MusePose?tab=readme-ov-file)
+* [MuseTalk: Real-Time High Quality Lip Synchronization with Latent Space Inpainting](https://github.com/TMElyralab/MuseTalk)
+* [GraphRAG: a data pipeline and transformation suite that is designed to extract meaningful, structured data from unstructured text using the power of LLMs](https://github.com/microsoft/graphrag)
+* [LangGraph Studio: agent IDE that enables visualization, interaction, and debugging of complex agentic applications to develop LLM applications](https://github.com/langchain-ai/langgraph-studio)
+* [PandasAI: a Python library that makes it easy to ask questions to your data in natural language](https://docs.pandas-ai.com/intro)
 
 ### non-programming
 * [YouTube：天文物理數學歷史等知識型老師李永樂](https://www.youtube.com/c/%E6%9D%8E%E6%B0%B8%E4%B9%90%E8%80%81%E5%B8%88)
