@@ -12,13 +12,17 @@ Record useful tools or websites
 * [CodeBeautify：html、css 等視覺化線上轉換](https://codebeautify.org/)
 * [regexr：正則表達式線上轉換](https://regexr.com/)
 * [Google Cloud Skills Boost：Google 雲端程式、非程式技巧](https://www.cloudskillsboost.google/paths)
+  
 #### PYTHON 開源專案
 * [MusePose: a Pose-Driven Image-to-Video Framework for Virtual Human Generation.](https://github.com/TMElyralab/MusePose?tab=readme-ov-file)
 * [MuseTalk: Real-Time High Quality Lip Synchronization with Latent Space Inpainting](https://github.com/TMElyralab/MuseTalk)
 * [GraphRAG: a data pipeline and transformation suite that is designed to extract meaningful, structured data from unstructured text using the power of LLMs](https://github.com/microsoft/graphrag)
 * [LangGraph Studio: agent IDE that enables visualization, interaction, and debugging of complex agentic applications to develop LLM applications](https://github.com/langchain-ai/langgraph-studio)
 * [PandasAI: a Python library that makes it easy to ask questions to your data in natural language](https://docs.pandas-ai.com/intro)
-
+  
+#### PYTHON API
+* [fredapi: Python API for the FRED data](https://pypi.org/project/fredapi/)
+  
 ### non-programming
 * [YouTube：天文物理數學歷史等知識型老師李永樂](https://www.youtube.com/c/%E6%9D%8E%E6%B0%B8%E4%B9%90%E8%80%81%E5%B8%88)
 * [Tool：Way to Access Papers](https://sci-hub.se/)
@@ -29,7 +33,7 @@ Record useful tools or websites
 * [Tool：線上白板 Miro](https://miro.com/)
 * [Tool：截圖工具 Snipaste](https://www.snipaste.com/download.html#)
 * [Blog：Data 📊 關於資料科學 … 我想說的是(上、中、下)](https://medium.com/%E7%A8%8B%E5%BC%8F%E7%8C%BF%E5%90%83%E9%A6%99%E8%95%89/data-science/home)
-
+  
 ### GPT
 * [Fast & Free & GPTs Bots Store](https://flowgpt.com/)
 * [Chatgpt 指令大全－中文介面](https://www.explainthis.io/zh-hant/chatgpt)
